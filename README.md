@@ -208,19 +208,19 @@ Used for categorical feature analysis.
 
 ## 📊 Correlation Heatmap
 
-![Correlation Heatmap](screenshots/Correlation Heatmap.png)
+![Correlation Heatmap](./screenshots/screenshots%20Correlation%20Heatmap.png)
 
 ---
 
 ## 📈 Math Score Distribution
 
-![Math Score Distribution](screenshots/Math Score Distribution.png)
+![Math Score Distribution](./screenshots/screenshots%20Math%20Score%20Distribution.png)
 
 ---
 
 ## 📉 Boxplot Analysis
 
-![Boxplot Analysis](screenshots/Boxplot of Scores.png)
+![Boxplot Analysis](./screenshots/screenshots%20Boxplot%20of%20Scores.png)
 
 ---
 
@@ -387,7 +387,7 @@ This project helped in understanding:
 
 ## 🖥️ Streamlit App UI
 
-![Streamlit App UI](screenshots/app_ui.png)
+![Streamlit App UI](./screenshots/screenshots%20app%20ui.png)
 
 ---
 
